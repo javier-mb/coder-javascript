@@ -1,4 +1,5 @@
 let user = prompt('Ingrese su nombre de usario:');
+let pass = alert(`Hola ${user} su contraseña es: "miContraseña10"`);
 
 for(let i = 0; i <= 5; i++){
     let password = prompt('Ingrese su contraseña:');
